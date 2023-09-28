@@ -1,0 +1,20 @@
+{
+	"name": "relayside",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "https://github.com/ceccun/relayside.git",
+	"author": "ejaz4 <ejazali4@protonmail.ch>",
+	"license": "MIT",
+	"private": true,
+	"dependencies": {
+		"node-ble": "^1.9.0",
+		"tsx": "^3.13.0",
+		"typescript": "^5.2.2"
+	},
+	"devDependencies": {
+		"@types/node": "^20.7.1"
+	},
+	"scripts": {
+		"dev": "tsx index.ts"
+	}
+}
